@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">exr02</string>
+    <string name="numero1">1º número</string>
+    <string name="numero2">2º número</string>
+    <string name="somar">Somar</string>
+    <string name="subtrair">Subtrair</string>
+    <string name="dividir">Dividir</string>
+    <string name="multiplicar">Multiplicar</string>
+</resources>
